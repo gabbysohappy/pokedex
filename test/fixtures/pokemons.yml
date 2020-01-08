@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  height: MyString
+  weight: MyString
+  level: 1
+  moves: MyString
+
+two:
+  name: MyString
+  type: 
+  height: MyString
+  weight: MyString
+  level: 1
+  moves: MyString
